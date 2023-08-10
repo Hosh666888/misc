@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/leetcode-111/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-111/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-141/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-141/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-144/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-144/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-145/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-145/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-25/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-25/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-32/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-32/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-344/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-344/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-41/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-41/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-49/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leetcode-49/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
