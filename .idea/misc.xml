@@ -13,6 +13,15 @@
         <option value="$PROJECT_DIR$/leetcode-141/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode-144/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode-145/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-169/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-203/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-205/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-232/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-234/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-242/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-258/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-268/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-278/pom.xml" />
       </list>
     </option>
   </component>
