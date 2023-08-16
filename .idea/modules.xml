@@ -13,8 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/leetcode-119/leetcode-119.iml" filepath="$PROJECT_DIR$/leetcode-119/leetcode-119.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-12/leetcode-12.iml" filepath="$PROJECT_DIR$/leetcode-12/leetcode-12.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-15/leetcode-15.iml" filepath="$PROJECT_DIR$/leetcode-15/leetcode-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-16/leetcode-16.iml" filepath="$PROJECT_DIR$/leetcode-16/leetcode-16.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-19/leetcode-19.iml" filepath="$PROJECT_DIR$/leetcode-19/leetcode-19.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-2/leetcode-2.iml" filepath="$PROJECT_DIR$/leetcode-2/leetcode-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-204/leetcode-204.iml" filepath="$PROJECT_DIR$/leetcode-204/leetcode-204.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-206/leetcode-206.iml" filepath="$PROJECT_DIR$/leetcode-206/leetcode-206.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-3/leetcode-3.iml" filepath="$PROJECT_DIR$/leetcode-3/leetcode-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-30/leetcode-30.iml" filepath="$PROJECT_DIR$/leetcode-30/leetcode-30.iml" />
@@ -27,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/leetcode-83/leetcode-83.iml" filepath="$PROJECT_DIR$/leetcode-83/leetcode-83.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-88/leetcode-88.iml" filepath="$PROJECT_DIR$/leetcode-88/leetcode-88.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-94/leetcode-94.iml" filepath="$PROJECT_DIR$/leetcode-94/leetcode-94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deep-clone/深浅拷贝.iml" filepath="$PROJECT_DIR$/deep-clone/深浅拷贝.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignMode/设计模式.iml" filepath="$PROJECT_DIR$/DesignMode/设计模式.iml" />
     </modules>
   </component>
 </project>
