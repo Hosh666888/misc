@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/671. 二叉树中第二小的节点/671. 二叉树中第二小的节点.iml" filepath="$PROJECT_DIR$/671. 二叉树中第二小的节点/671. 二叉树中第二小的节点.iml" />
       <module fileurl="file://$PROJECT_DIR$/7. 整数反转/7. 整数反转.iml" filepath="$PROJECT_DIR$/7. 整数反转/7. 整数反转.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LeetCodeDemo.iml" filepath="$PROJECT_DIR$/LeetCodeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-100/leetcode-100.iml" filepath="$PROJECT_DIR$/leetcode-100/leetcode-100.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-101/leetcode-101.iml" filepath="$PROJECT_DIR$/leetcode-101/leetcode-101.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-104/leetcode-104.iml" filepath="$PROJECT_DIR$/leetcode-104/leetcode-104.iml" />
@@ -29,8 +29,10 @@
       <module fileurl="file://$PROJECT_DIR$/leetcode-83/leetcode-83.iml" filepath="$PROJECT_DIR$/leetcode-83/leetcode-83.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-88/leetcode-88.iml" filepath="$PROJECT_DIR$/leetcode-88/leetcode-88.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-94/leetcode-94.iml" filepath="$PROJECT_DIR$/leetcode-94/leetcode-94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/字符串.iml" filepath="$PROJECT_DIR$/strings/字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/deep-clone/深浅拷贝.iml" filepath="$PROJECT_DIR$/deep-clone/深浅拷贝.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/设计模式.iml" filepath="$PROJECT_DIR$/DesignMode/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retry/重试.iml" filepath="$PROJECT_DIR$/retry/重试.iml" />
     </modules>
   </component>
 </project>

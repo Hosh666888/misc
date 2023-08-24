@@ -20,6 +20,8 @@ public class Main {
         final IService iService = (IService) Proxy.newProxyInstance(service.getClass().getClassLoader(), service.getClass().getInterfaces(), new ServiceImplInvocationHandler<>(service));
 
         System.out.println("iService.work() = " + iService.work());
+        System.out.println("=======================================================");
+        System.out.println("iService.work2() = " + iService.work2());
 
 
     }

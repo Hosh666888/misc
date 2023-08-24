@@ -9,7 +9,12 @@ package 代理;
 public class ServiceImpl implements IService {
     @Override
     public int work() {
-        int i = 1 / 0;
         return Integer.MAX_VALUE;
+    }
+
+    @Override
+    @ProxyInvoke
+    public int work2() {
+        return 22222222;
     }
 }

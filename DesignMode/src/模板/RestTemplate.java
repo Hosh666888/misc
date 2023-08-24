@@ -1,5 +1,9 @@
 package 模板;
 
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+
 /**
  * @author: Double>J
  * @email: zjj20001031@foxmail.com
@@ -13,6 +17,8 @@ public abstract class RestTemplate<RequestType, ResponseType> {
         final ResponseType slot = slot(param);
         System.out.println("slot = " + slot);
         logAfter(url);
+
+
         return slot;
     }
 

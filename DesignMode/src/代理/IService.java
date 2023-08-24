@@ -10,4 +10,6 @@ public interface IService {
 
     int work();
 
+    int work2();
+
 }

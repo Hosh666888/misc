@@ -32,6 +32,13 @@ public class ServiceImplInvocationHandler<T> extends MyCustomInvocationHandler<T
 
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+
+
+        if (method.getAnnotation(ProxyInvoke.class) == null) {
+            return method.invoke(src, args);
+        }
+
+
         before(proxy, method, args);
         final Object res;
         try {
