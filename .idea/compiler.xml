@@ -6,25 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="leetcode-111" />
-        <module name="leetcode-144" />
-        <module name="leetcode-232" />
-        <module name="leetcode-242" />
-        <module name="leetcode-49" />
-        <module name="leetcode-344" />
-        <module name="leetcode-234" />
-        <module name="leetcode-278" />
-        <module name="leetcode-145" />
-        <module name="leetcode-25" />
-        <module name="leetcode-203" />
-        <module name="leetcode-258" />
-        <module name="leetcode-169" />
-        <module name="leetcode-268" />
-        <module name="leetcode-205" />
-        <module name="leetcode-32" />
-        <module name="leetcode-41" />
-        <module name="leetcode-141" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leetcode-111" target="1.8" />
+      <module name="leetcode-141" target="1.8" />
+      <module name="leetcode-144" target="1.8" />
+      <module name="leetcode-145" target="1.8" />
+      <module name="leetcode-169" target="1.8" />
+      <module name="leetcode-203" target="1.8" />
+      <module name="leetcode-205" target="1.8" />
+      <module name="leetcode-232" target="1.8" />
+      <module name="leetcode-234" target="1.8" />
+      <module name="leetcode-242" target="1.8" />
+      <module name="leetcode-258" target="1.8" />
+      <module name="leetcode-268" target="1.8" />
+      <module name="leetcode-278" target="1.8" />
+      <module name="leetcode-32" target="1.8" />
+      <module name="leetcode-344" target="1.8" />
+      <module name="leetcode-41" target="1.8" />
+      <module name="leetcode-49" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

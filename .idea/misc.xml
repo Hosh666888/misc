@@ -24,6 +24,28 @@
         <option value="$PROJECT_DIR$/leetcode-278/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/leetcode-111/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-141/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-144/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-145/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-169/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-203/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-205/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-232/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-234/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-242/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-25/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-258/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-268/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-278/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-32/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-344/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-41/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-49/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
