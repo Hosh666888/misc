@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStruct/数据结构.iml" filepath="$PROJECT_DIR$/DataStruct/数据结构.iml" />
       <module fileurl="file://$PROJECT_DIR$/deep-clone/深浅拷贝.iml" filepath="$PROJECT_DIR$/deep-clone/深浅拷贝.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonCache/缓存相关.iml" filepath="$PROJECT_DIR$/CommonCache/缓存相关.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/设计模式.iml" filepath="$PROJECT_DIR$/DesignMode/设计模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/retry/重试.iml" filepath="$PROJECT_DIR$/retry/重试.iml" />
     </modules>
