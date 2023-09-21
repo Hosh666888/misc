@@ -8,7 +8,7 @@ import java.time.Duration;
  * @editTime: 2023/9/19 16:49
  * @desc:
  **/
-public enum Caches {
+public enum CacheEnum {
     User,
     Progress;
 

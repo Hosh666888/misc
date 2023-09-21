@@ -65,6 +65,10 @@ public class Cache<K, V> {
         storage.clear();
     }
 
+    public void clearUp(K key) {
+        storage.remove(key);
+    }
+
 
     private long generateExpireTime() {
         return System.currentTimeMillis() + expire.toMillis() + Optional.ofNullable(randomAppend).map(Duration::toMillis).orElse(0L);
