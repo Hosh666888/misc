@@ -5,6 +5,7 @@ import 代理.ServiceImpl;
 import 代理.ServiceImplInvocationHandler;
 
 import java.lang.reflect.Proxy;
+import java.util.stream.IntStream;
 
 /**
  * @author: Double>J
